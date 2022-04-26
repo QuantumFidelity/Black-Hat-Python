@@ -1,0 +1,336 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 6.0
+.documents.1.cp: 86
+.documents.1.cw: 5
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.viewmode: 1
+.documents.1.wordcount: 1473
+.fileformat: 7.0
+.idletime: 3
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.name: "/home/mosfet/Documents/Books/Computer Science/Hacking/Black Hat Python/chapter 2 networking.wg"
+.statusbar: true
+.styles.1.above: 0
+.styles.1.below: 0
+.styles.1.desc: "Plain text"
+.styles.1.firstindent: 4
+.styles.1.name: "P"
+.styles.2.above: 3
+.styles.2.below: 1
+.styles.2.desc: "Heading #1"
+.styles.2.name: "H1"
+.styles.3.above: 2
+.styles.3.below: 1
+.styles.3.desc: "Heading #2"
+.styles.3.name: "H2"
+.styles.4.above: 1
+.styles.4.below: 1
+.styles.4.desc: "Heading #3"
+.styles.4.name: "H3"
+.styles.5.above: 1
+.styles.5.below: 1
+.styles.5.desc: "Heading #4"
+.styles.5.name: "H4"
+.styles.6.above: 1
+.styles.6.below: 1
+.styles.6.desc: "Indented text"
+.styles.6.indent: 4
+.styles.6.name: "Q"
+.styles.7.above: 1
+.styles.7.below: 1
+.styles.7.bullet: "-"
+.styles.7.desc: "List item with bullet"
+.styles.7.indent: 4
+.styles.7.name: "LB"
+.styles.8.above: 1
+.styles.8.below: 1
+.styles.8.desc: "List item without bullet"
+.styles.8.indent: 4
+.styles.8.name: "L"
+.styles.9.above: 0
+.styles.9.below: 0
+.styles.9.desc: "Indented text, run together"
+.styles.9.indent: 4
+.styles.9.name: "V"
+.styles.10.above: 0
+.styles.10.below: 0
+.styles.10.desc: "Preformatted text"
+.styles.10.indent: 4
+.styles.10.name: "PRE"
+.styles.11.above: 0
+.styles.11.below: 0
+.styles.11.desc: "Raw data exported to output file"
+.styles.11.indent: 0
+.styles.11.name: "RAW"
+.styles.H1.above: 3
+.styles.H1.below: 1
+.styles.H1.desc: "Heading #1"
+.styles.H1.name: "H1"
+.styles.H2.above: 2
+.styles.H2.below: 1
+.styles.H2.desc: "Heading #2"
+.styles.H2.name: "H2"
+.styles.H3.above: 1
+.styles.H3.below: 1
+.styles.H3.desc: "Heading #3"
+.styles.H3.name: "H3"
+.styles.H4.above: 1
+.styles.H4.below: 1
+.styles.H4.desc: "Heading #4"
+.styles.H4.name: "H4"
+.styles.L.above: 1
+.styles.L.below: 1
+.styles.L.desc: "List item without bullet"
+.styles.L.indent: 4
+.styles.L.name: "L"
+.styles.LB.above: 1
+.styles.LB.below: 1
+.styles.LB.bullet: "-"
+.styles.LB.desc: "List item with bullet"
+.styles.LB.indent: 4
+.styles.LB.name: "LB"
+.styles.P.above: 0
+.styles.P.below: 0
+.styles.P.desc: "Plain text"
+.styles.P.firstindent: 4
+.styles.P.name: "P"
+.styles.PRE.above: 0
+.styles.PRE.below: 0
+.styles.PRE.desc: "Preformatted text"
+.styles.PRE.indent: 4
+.styles.PRE.name: "PRE"
+.styles.Q.above: 1
+.styles.Q.below: 1
+.styles.Q.desc: "Indented text"
+.styles.Q.indent: 4
+.styles.Q.name: "Q"
+.styles.RAW.above: 0
+.styles.RAW.below: 0
+.styles.RAW.desc: "Raw data exported to output file"
+.styles.RAW.indent: 0
+.styles.RAW.name: "RAW"
+.styles.V.above: 0
+.styles.V.below: 0
+.styles.V.desc: "Indented text, run together"
+.styles.V.indent: 4
+.styles.V.name: "V"
+.current: 1
+#1
+P Python Netwoking in a Paragraph
+P 
+P programmers have a number of third party tools to create networked servers and client in Python, but the core module for all of those tools is socket. This module exposes all of the necessart pieces to quickly write TCP and UDP clients and servers, use raw sockets, and so forth. For the purposes of breaking in or maintaining access to target machines, this module is all you really need. Let's start by creating some simple clients and servers, the two most common quick network scripts you'll write.
+P 
+P TCP Client
+P There have been countless times during penetration tests that one may need to whip up a TCP client to test for services, send garbage data, fuzz, or any number of other tasks. If you are working within the confines of large enterprise enviornments, you won't have the luxury of networking tools or compilers, and sometimes you'll even be missing the absolute basics like the ability to copy and paste or an Internet Connection. This is where being able to quickly create a TCP client comes in extrememly handy.
+P 
+P # see simple_tcp.py
+P 
+P We first create a socket object with the AF_INET and SOCK_STREAM parameters. The AF_INET parameter is saying we are going to use a standard IPv4 address or hostname, and SOCK_STREAM indicated that this will be a TCP client. We then connect the client to the server and send it some data. The last step is to receive some data back and print out the response. This is the simplest form of a TCP client, but the one you will write most often. 
+P 
+P In the above code snippet, we are making some serious assumptions about sockets that you definitely want to be aware of. The first assumption is that our connection will always succeed, and the second is that the server is always expecting us to send data first (as opposted to servers that expect to send data to you first and await your response). Our third assumption is that ther server will always send us data back in a timely fashion. We make these assumptions largely for simplicities sake. While programmers have varied opinions about how to deal with blocking sockets, exception-handling in sockets, and the like, it's quite rare for pentesters to build these niceties into the quick-and-dirty tools for recon or exploitation work, so we'll omit them in this chapter. 
+P 
+P UDP Client
+P A Python UDP client is not much different than a TCP client; we need to make only two small changes to get it to send packets in UDP form. 
+P 
+P # see simple_udp_client.py
+P 
+P we changed the socket type to SOCK_DGRAM when creating the socket object. The next step is to simply call sendto(), passing in the data and the server you want to send the data to. because UDP is a connectionless protocol, there is no call to connect() beforehand. The last step is to call recvfrom() to receive UDP data back. You will also notice that it returns both the data and the details of the remote host and port. 
+P 
+P Again we're not looking to be superior network programmersl we want to be quick, easy, and reliable enough to handle our day to day hacking tasks. Let's move on to creating some simple servers. 
+P 
+P TCP Server
+P Creating TCP servers in Python is just as easy as creating a client. You might want to use your own
+P TCP server when writing command shells or crafting a proxy (both of which we’ll do later). Let’s
+P start by creating a standard multi-threaded TCP server. Crank out the code below:
+P import socket
+P import threading
+P bind_ip
+P = "0.0.0.0"
+P bind_port = 9999
+P server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+P ➊ server.bind((bind_ip,bind_port))
+P ➋ server.listen(5)
+P print "[*] Listening on %s:%d" % (bind_ip,bind_port)
+P # this is our client-handling thread
+P ➌ def handle_client(client_socket):
+P # print out what the client sends
+P request = client_socket.recv(1024)
+P print "[*] Received: %s" % request
+P # send back a packet
+P client_socket.send("ACK!")
+P client_socket.close()
+P while True:
+P ➍
+P client,addr = server.accept()
+P print "[*] Accepted connection from: %s:%d" % (addr[0],addr[1])
+P ➎
+P # spin up our client thread to handle incoming data
+P client_handler = threading.Thread(target=handle_client,args=(client,))
+P client_handler.start()
+P To start off, we pass in the IP address and port we want the server to listen on ➊. Next we tell the
+P server to start listening ➋ with a maximum backlog of connections set to 5. We then put the server
+P into its main loop, where it is waiting for an incoming connection. When a client connects ➍, we
+P receive the client socket into the client variable, and the remote connection details into the addr
+P variable. We then create a new thread object that points to our handle_client function, and we pass
+P it the client socket object as an argument. We then start the thread to handle the client connection ➎,
+P and our main server loop is ready to handle another incoming connection. The handle_client ➌
+P function performs the recv() and then sends a simple message back to the client.
+P If you use the TCP client that we built earlier, you can send some test packets to the server and you
+P should see output like the following:
+P [*] Listening on 0.0.0.0:9999
+P [*] Accepted connection from: 127.0.0.1:62512
+P [*] Received: ABCDEF
+P 
+P That's it! Pretty simple, but this is a very useful piece of code which we will extend in the next couple of sections when we build a netcat replacement and a TCP proxy.
+P 
+P Replacing Netcat
+P netcat is the utility knife of networking, so it's no surprise that shrewd systems admins remove it from their systems. On more than one occasion, I've run into server that do not have netcat installed but they do have python installed. It can be useful to create a simple network client and server that you can use to push files, or to have a listener that gives you command-line access. If you're broken in through a web application, it is definitely worth dropping a Python callback to give you secondry access without having to first burn one of your trojans or backdoors. Creating a tool like this is also a great Python excercise, so let's get started. 
+P 
+P see code replacing_netcat.py
+P 
+P here, we are just importing all of our necessary libraries and setting some global variables. No heavy lifting quite yet. Now let's create our main function responsible for handling command-line arguments and calling the rest of our functions. 
+P 
+P By now, you're an old hand at creating TCP servers complete with threading, so I won't dive into the server_loop function. The run_command function however contains a new lib we havnen't covered yet: the subprocess librarty.subprocess procides a powerful process-creation interface that gives you a number of ways to start and interact with client programs. In this case, we're simply running whatever command we pass in, running it on the local operating system, and returning the output from the command back to the client that is connected to us. The exception-handling code will catch generic errors and return back a message letting you know that the command failed. Now let's implement the logic to do file uploads. command execution and our shell. 
+P 
+P Kicking the Tires
+P Now let's play around with it a bit to see some output. Okay so since this book is a little bit older this technique is not working entirely, but the idea is simple, you are basically making a script to mimic a command and it's functionality that's not on a host machine, bottom line, if you have access to the machine and you can have a TCP client and server, we can basically push any package or script to the machine that we want to. 
+P 
+P Next thing we are going to do is to build a TCP Proxy 
+P 
+P Building a TCP Proxy 
+P There are a number of reason to have a TCP proxy in your tool belt, both for forwarding traffic to bounce from host to host, but also when assessing network-based software. When performing penetration tests in enterprise enviornments, you'll commonly be faced with the fact that you can't run Wireshark, that you can't load drivers to sniff the loopback on Windows, or that network segmentation prevents you from running your tools directly against your target host. I have employed a simple Python proxy in a number of cases to help understand unknown protocols, modify traffic being sent to an application, and create test cases for fuzzers. Let's get to it. 
+P 
+P Why TCP Proxy is useful. 
+P - forwarding traffic to bounce from host to host
+P - assessing network-based software
+P 
+P # see tcp_proxy.py
+P 
+P Additional Task, push all of the code in black hat python to github as a way to reinforce using git hub as a version control system. 
+.
